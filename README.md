@@ -51,7 +51,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For inquiries or support, please contact us at:
 
-- **Email**: info@fistasolutions.com
+- **Email**: ceo@fistasolutions.com
 - **Website**: [www.fistasolutions.com](http://www.fistasolutions.com)
 - **LinkedIn**: [FISTA Solutions LinkedIn](https://www.linkedin.com/company/fistasolutions)
 
